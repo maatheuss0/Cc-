@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Nadador_C#\bin\Debug\net5.0\Nadador_C#.exe
+C:\Users\user\Desktop\Nadador_C#\bin\Debug\net5.0\Nadador_C#.deps.json
+C:\Users\user\Desktop\Nadador_C#\bin\Debug\net5.0\Nadador_C#.runtimeconfig.json
+C:\Users\user\Desktop\Nadador_C#\bin\Debug\net5.0\Nadador_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\Nadador_C#\bin\Debug\net5.0\Nadador_C#.dll
+C:\Users\user\Desktop\Nadador_C#\bin\Debug\net5.0\ref\Nadador_C#.dll
+C:\Users\user\Desktop\Nadador_C#\bin\Debug\net5.0\Nadador_C#.pdb
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.dll
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\ref\Nadador_C#.dll
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.pdb
+C:\Users\user\Desktop\Nadador_C#\obj\Debug\net5.0\Nadador_C#.genruntimeconfig.cache

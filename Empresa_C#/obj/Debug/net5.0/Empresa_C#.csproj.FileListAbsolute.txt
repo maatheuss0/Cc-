@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Empresa_C#\bin\Debug\net5.0\Empresa_C#.exe
+C:\Users\user\Desktop\Empresa_C#\bin\Debug\net5.0\Empresa_C#.deps.json
+C:\Users\user\Desktop\Empresa_C#\bin\Debug\net5.0\Empresa_C#.runtimeconfig.json
+C:\Users\user\Desktop\Empresa_C#\bin\Debug\net5.0\Empresa_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\Empresa_C#\bin\Debug\net5.0\Empresa_C#.dll
+C:\Users\user\Desktop\Empresa_C#\bin\Debug\net5.0\ref\Empresa_C#.dll
+C:\Users\user\Desktop\Empresa_C#\bin\Debug\net5.0\Empresa_C#.pdb
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.dll
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\ref\Empresa_C#.dll
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.pdb
+C:\Users\user\Desktop\Empresa_C#\obj\Debug\net5.0\Empresa_C#.genruntimeconfig.cache

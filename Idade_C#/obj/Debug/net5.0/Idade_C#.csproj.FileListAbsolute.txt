@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Idade_C#\bin\Debug\net5.0\Idade_C#.exe
+C:\Users\user\Desktop\Idade_C#\bin\Debug\net5.0\Idade_C#.deps.json
+C:\Users\user\Desktop\Idade_C#\bin\Debug\net5.0\Idade_C#.runtimeconfig.json
+C:\Users\user\Desktop\Idade_C#\bin\Debug\net5.0\Idade_C#.runtimeconfig.dev.json
+C:\Users\user\Desktop\Idade_C#\bin\Debug\net5.0\Idade_C#.dll
+C:\Users\user\Desktop\Idade_C#\bin\Debug\net5.0\ref\Idade_C#.dll
+C:\Users\user\Desktop\Idade_C#\bin\Debug\net5.0\Idade_C#.pdb
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.AssemblyInfo.cs
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.dll
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\ref\Idade_C#.dll
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.pdb
+C:\Users\user\Desktop\Idade_C#\obj\Debug\net5.0\Idade_C#.genruntimeconfig.cache
